@@ -1,1 +1,1 @@
-Contain lectures notes on various topics of physics from undergrad to grad level.
+Contain lecture notes on various topics of physics from undergrad to grad level.
